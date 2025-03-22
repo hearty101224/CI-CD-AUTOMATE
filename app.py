@@ -1,5 +1,5 @@
 def hello():
-    return "Hello, Love!!"
+    return "Hello, Hearty!!"
 
 # Ensure output is printed in Jenkins
 if __name__ == "__main__":
